@@ -1,5 +1,5 @@
-body{
-    background-color: brown;
+html[dark]{
+    background-color: black;
     color: aliceblue;
 }
 
